@@ -5,5 +5,4 @@ mellostha@gmail.com
 devops
 
 
-touch {a..z}{A..Z}{1..100}
-```
+new tech machinelearning googlecloud
