@@ -2,7 +2,7 @@ Why are there so many files in here
 ## Answer:
 sushovan shrestha
 mellostha@gmail.com
-devops
+
 
 
 new tech machinelearning googlecloud
