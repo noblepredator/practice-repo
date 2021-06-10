@@ -4,6 +4,7 @@ this is git project which we are using as sample project
 
 ## Introduction
 a lot of lectures are already submitted
+and  a lot of lectures are atill coming on
 
 
 ## GIT and GITHUB training
@@ -18,5 +19,7 @@ adding git comparisions
 
 ##GITHUB content 
 comparision with repo
+
+
 
 
