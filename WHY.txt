@@ -6,3 +6,7 @@ mellostha@gmail.com
 
 
 old tech news
+
+
+creating conflicts for rebase exercise
+
